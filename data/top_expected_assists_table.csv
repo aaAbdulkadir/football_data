@@ -1,13 +1,13 @@
 ,Name,top_expected_assists
-0,K. De Bruyne,11.00
+0,K. De Bruyne,10.98
 1,Bruno Fernandes ,7.56
 2,K. Trippier ,7.42
 3,M. Ødegaard ,5.83
-4,P. Groß ,5.10
-5,Gabriel Martinelli ,5.00
-6,M. Gibbs-White ,4.93
+4,M. Gibbs-White ,5.12
+5,P. Groß ,5.10
+6,Gabriel Martinelli ,5.00
 7,B. Saka ,4.83
-8,T. Alexander-Arnold ,4.58
+8,T. Alexander-Arnold ,4.57
 9,A. Robertson ,4.45
 10,S. March ,4.25
 11,Mohamed Salah ,4.20
@@ -22,7 +22,7 @@
 20,D. Kulusevski ,3.68
 21,I. Gündogan ,3.51
 22,D. McNeil ,3.38
-23,Bernardo Silva ,3.36
+23,Bernardo Silva ,3.37
 24,B. Mbeumo ,3.30
 25,H. Elliott ,3.19
 26,A. Iwobi ,3.16
@@ -32,8 +32,8 @@
 30,Darwin Núñez ,3.06
 31,J. Maddison ,2.97
 32,Rodri ,2.96
-33,C. Eriksen ,2.87
-34,L. Trossard ,2.86
+33,L. Trossard ,2.93
+34,C. Eriksen ,2.87
 35,K. Mitoma ,2.85
 36,P. Højbjerg ,2.83
 37,E. Haaland ,2.81
@@ -56,9 +56,9 @@
 54,Sean Longstaff ,2.19
 55,L. Cook ,2.15
 56,W. Zaha ,2.12
-57,O. Zinchenko ,2.10
-58,Douglas Luiz ,2.08
-59,João Moutinho ,2.07
+57,Douglas Luiz ,2.08
+58,João Moutinho ,2.07
+59,O. Zinchenko ,2.06
 60,E. Eze ,2.06
 61,I. Toney ,2.05
 62,Joelinton ,2.05
@@ -71,8 +71,8 @@
 69,Stuart Armstrong ,1.87
 70,J. Sancho ,1.86
 71,D. Solanke ,1.86
-72,A. Mvom Onana ,1.86
-73,Gabriel Jesus ,1.85
+72,Gabriel Jesus ,1.85
+73,A. Mvom Onana ,1.84
 74,A. Saint-Maximin ,1.83
 75,L. Shaw ,1.82
 76,C. Adams ,1.74
@@ -138,8 +138,8 @@
 136,M. Cash ,1.10
 137,Lucas Paquetá ,1.10
 138,R. Loftus-Cheek ,1.09
-139,A. Smith ,1.08
-140,Jorginho ,1.08
+139,Jorginho ,1.08
+140,A. Smith ,1.08
 141,A. Gordon ,1.08
 142,Ryan Sessegnon ,1.08
 143,Fred ,1.08
@@ -205,11 +205,11 @@
 203,L. Sinisterra ,0.67
 204,Ashley Young ,0.67
 205,J. Vardy ,0.66
-206,S. Coleman ,0.66
-207,R. Bentancur ,0.65
-208,R. Freuler ,0.65
-209,P. Sarabia ,0.64
-210,J. Andersen ,0.64
+206,R. Bentancur ,0.65
+207,R. Freuler ,0.65
+208,P. Sarabia ,0.64
+209,J. Andersen ,0.64
+210,S. Coleman ,0.64
 211,P. Bamford ,0.62
 212,Renan Lodi ,0.62
 213,Matt Targett ,0.61
@@ -221,19 +221,19 @@
 219,D. Undav ,0.58
 220,J. Schlupp ,0.58
 221,Gonçalo Guedes ,0.58
-222,K. Moore ,0.57
-223,G. Scamacca ,0.57
-224,S. McTominay ,0.57
-225,E. Dier ,0.57
+222,G. Scamacca ,0.57
+223,S. McTominay ,0.57
+224,E. Dier ,0.57
+225,K. Moore ,0.57
 226,D. Ouattara ,0.57
 227,J. Ayodele-Aribo ,0.56
 228,Carlos Vinícius ,0.56
 229,M. Albrighton ,0.55
 230,N. Patterson ,0.55
 231,E. Konsa Ngoyo ,0.54
-232,M. Salisu ,0.54
-233,M. Damsgaard ,0.54
-234,J. Pickford ,0.54
+232,J. Pickford ,0.54
+233,M. Salisu ,0.54
+234,M. Damsgaard ,0.54
 235,J. Worrall ,0.54
 236,C. Summerville ,0.54
 237,L. Dunk ,0.53
@@ -372,8 +372,8 @@
 370,B. Leno ,0.15
 371,A. Hickey ,0.15
 372,B. Badiashile ,0.14
-373,A. Ramsdale ,0.14
-374,J. Bree ,0.14
+373,J. Bree ,0.14
+374,A. Ramsdale ,0.14
 375,S. Rondón ,0.14
 376,A. Lokonga ,0.13
 377,Alisson ,0.13
@@ -409,8 +409,8 @@
 407,H. Souttar ,0.08
 408,Lyanco ,0.08
 409,José Sá ,0.08
-410,E. Onuachu ,0.07
-411,D. Zakaria ,0.07
+410,D. Zakaria ,0.07
+411,E. Onuachu ,0.07
 412,Boubacar Traoré ,0.07
 413,Neto ,0.07
 414,A. Broja ,0.07
