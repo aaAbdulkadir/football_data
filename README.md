@@ -29,3 +29,11 @@ pip install -r requirements.txt
 ```bash
 ctrl+shift+c
 ```
+
+## Streamlit
+
+```bash
+streamlit run streamlitapp/app.py
+```
+
+Run from root directory.
